@@ -60,7 +60,6 @@
   - [toxannotator](https://github.com/rustcodepro/toxannotator): Genome annotator and deep learning for protein based comparison for ToxDB.
   - [toxencoder](https://github.com/rustcodepro/toxencoder):BERT implementation for ToxDB
   - [ptmclassifier](https://github.com/rustcodepro/ptmclassifier): Classification of the post translational modification sequences
-  - [ToxBrowse](https://github.com/rustcodepro/toxbrowse): ToxBrowse for ToxDB genome analysis.
   - [Proteoseek](github.com/rustcodepro/proteoseek): Protein PTM annotation using the classification approach.
   - [ptmseek](https://github.com/rustcodepro/ptmseek): Protein PTM classification using the LSTM approach.
   - [protalignspec](https://github.com/rustcodepro/protalignspec): Alignment to spectral intensities
