@@ -73,6 +73,8 @@
   - [seqmap](https://github.com/rustcodepro/seqmap): SeqMap for the genomic mapping.
   - [seqCluster](https://github.com/rustcodepro/seqcluster): Metagenomics SeqCluster
   - [graphSAGE](https://github.com/rustcodepro/graphsage): GraphSAGE in RUST.
+  - [beechem](https://github.com/rustcodepro/beechem): Elasticnet approach to chemical modelling.
+  - [klebnz](https://github.com/rustcodepro/klebnz): Kelp sponge machine learning.
   
  - Rust Crates Build at Potsdam Germany. (2024-2024) 
    - [panscape](https://github.com/omicscode/panscape): Pangenome long reads
