@@ -19,15 +19,16 @@
 - 2011-2014: After my PhD, I developed bioinformatics methods and software for transcriptional and post-transcriptional genomics across nuclear and organelle genomes at Fondazione Edmund Mach (Italy). I analyzed and finished multiple RNA-seq and organelle-Seq experiments for several plant and fungal species, including Arundo donax. Additionally i analyzed multiple metagenomics anlaysis coming from the fungal and bacterial species involving ITS metagenomics, as well as the bacterial metagenomics. Additionally, I have done a lot of work in the field of organelle genomics and have published the first Cardamine species chloroplast genomes.
 
 **Bioinformatics Software Research:** 
-- Over the years, I have worked with several languages such as C++ (2010-2021), R (2010-2021), Python (2021-2024), RUST (2024-) but mostly used one system programming language such as C++ (2010-2021) and then replaced with RUST(2024-).
+- Over the years, I have worked with several languages such as C++ (2010-2021), R (2010-2021), Python (2021-2024), RUST (2024-).
 - Software Development: C++(2010-2021), 2024-: RUST as a full stack from bioinformatics, software, cloud and hpc management, web and machine and deep learning.
 - Web Development: RUST i use Axum, Rocket, Dioxus, Actix, Warp, Yew, Leptos
 - GraphQL: RUST.
 - Desktop,Terminal and HPC Development: eGUI, Iced, Ratatui. 
-- Machine and Deep Learning: RUST using Burn, Tch, Linfa, SmartCore, Candle. Only using python for bioinformatics analysis, machine and deep learning using PyTorch.
-- As a prolific coder (I wrote and developed every software as single lead bioinformatician at every employment). 
+- Machine and Deep Learning: RUST using Burn, Tch, Linfa, SmartCore, Candle and Kornia.
+- Python and R for machine learning and bioinformatics.
+- I wrote and developed every software as single lead bioinformatician at every employment. 
 - I served as a single lead bioinformatician from software developer to bioinformatics data analysis, machine learning and HPC cloud management at every employment.
-- I dont vibe code and use language models. Few of them are given below and some of these are under active development.
+- I dont vibe code and use language models. 
 
 **Notification:**
 
@@ -35,7 +36,7 @@
 
 **Projects completed and currently working**:
 
-- Rust Crates Build at Poznan, Poland. (2025-2025) 
+- **Rust Crates Build at Poznan, Poland: 2025-2025** 
   - [eVaiUtilities](https://github.com/omicscode/eVaiutilities): Variant analysis from the eVai.
   - [egraph](https://github.com/rustcodepro/egraph): egraph for the eVai machine learning.
   - [NLRanalyzer](https://github.com/omicscode/NLRanalyzer): Complete kit for analyzing NLR.
@@ -62,9 +63,6 @@
   - [encoderb](https://github.com/rustcodepro/encoderb): A support vector machine sparse matrix kmer classification approach.
   - [toxannotator](https://github.com/rustcodepro/toxannotator): Genome annotator and deep learning for protein based comparison for ToxDB.
   - [toxencoder](https://github.com/rustcodepro/toxencoder):BERT implementation for ToxDB
-  - [ptmclassifier](https://github.com/rustcodepro/ptmclassifier): Classification of the post translational modification sequences
-  - [Proteoseek](github.com/rustcodepro/proteoseek): Protein PTM annotation using the classification approach.
-  - [ptmseek](https://github.com/rustcodepro/ptmseek): Protein PTM classification using the LSTM approach.
   - [protalignspec](https://github.com/rustcodepro/protalignspec): Alignment to spectral intensities
   - [toxgui](https://github.com/rustcodepro/toxgui): ToxGUI Rust Based for ToxDB
   - [ghlearn](https://github.com/rustcodepro/ghlearn): Variant machine and deep learning directly from the variant file and the annotation file. 
@@ -79,7 +77,7 @@
   - [beechem](https://github.com/rustcodepro/beechem): Elasticnet approach to chemical modelling.
   - [klebnz](https://github.com/rustcodepro/klebnz): Kelp sponge machine learning.
   
- - Rust Crates Build at Potsdam Germany. (2024-2024) 
+ - **Rust Crates Build at Potsdam Germany:2024-2024** 
    - [panscape](https://github.com/omicscode/panscape): Pangenome long reads
    - [sequenceprofiler](https://github.com/omicscode/sequenceprofiler): Profiling sequence kmers for histograms
    - [phyloevolve](https://github.com/omicscode/phyloevolve): Long reads and alignments from the multiple alignments.
