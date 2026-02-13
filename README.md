@@ -28,6 +28,9 @@
 - As a prolific coder (I wrote and developed every software as single lead bioinformatician at every employment). 
 - I served as a single lead bioinformatician from software developer to bioinformatics data analysis, machine learning and HPC cloud management at every employment.
 - I dont vibe code and use language models. Few of them are given below and some of these are under active development.
+
+**Notification:**
+
 - I am actively coding for multiple job offers hence some of them are under active development. See the last commit tag as the final build release for each of the source repository.
 
 **Projects completed and currently working**:
