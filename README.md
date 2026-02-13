@@ -19,7 +19,7 @@
 - 2011-2014: After my PhD, I developed bioinformatics methods and software for transcriptional and post-transcriptional genomics across nuclear and organelle genomes at Fondazione Edmund Mach (Italy). I analyzed and finished multiple RNA-seq and organelle-Seq experiments for several plant and fungal species, including Arundo donax. Additionally i analyzed multiple metagenomics anlaysis coming from the fungal and bacterial species involving ITS metagenomics, as well as the bacterial metagenomics. Additionally, I have done a lot of work in the field of organelle genomics and have published the first Cardamine species chloroplast genomes.
 
 **Bioinformatics Software Research:** 
-- Over the years, I have worked with several languages such as C++ (2010-2021), R (2010-2021), Python (2021-2024), RUST (2024-).
+- C++ (2010-2021), R (2010-2021), Python (2021-2024), RUST (2024-).
 - Software Development: C++(2010-2021), 2024-: RUST as a full stack from bioinformatics, software, cloud and hpc management, web and machine and deep learning.
 - Web Development: RUST i use Axum, Rocket, Dioxus, Actix, Warp, Yew, Leptos
 - GraphQL: RUST.
