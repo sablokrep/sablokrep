@@ -69,7 +69,6 @@
   - [graphqlvar](https://github.com/rustcodepro/graphqlvar): Variant GraphQL analyzer.
   - [varql](https://github.com/rustcodepro/varql): GraphQL based machine learning.
   - [varpred](https://github.com/rustcodepro/varpred): Variant prediction machine learning on population data.
-  - [boostmer](https://github.com/rustcodepro/boostmer): Bagging and Boosting approach for variant and metagenomics reads.
   - [rnaml](https://github.com/rustcodepro/rnaml): RNAML for Machine and Deep learning for predictions.
   - [seqmap](https://github.com/rustcodepro/seqmap): SeqMap for the genomic mapping.
   - [seqCluster](https://github.com/rustcodepro/seqcluster): Metagenomics SeqCluster
