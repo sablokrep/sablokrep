@@ -36,6 +36,16 @@
 
 **Projects completed and currently working**:
 
+- **Rust Crates: 2026**
+  - [beechem](https://github.com/rustcodepro/beechem): Elasticnet approach to chemical modelling.
+  - [klebnz](https://github.com/rustcodepro/klebnz): Kelp sponge machine learning.
+  - [browsemap](https://github.com/sablokrep/browsemap): Antimicrobial machine learning.
+  - [beemorph](https://github.com/sablokrep/beemorph): Morphometric machine learning.
+  - [statreg](https://github.com/sablokrep/statreg): Statistical Machine learning for StatNZ.
+  - [biomeML](https://github.com/sablokrep/biomeML): Microbiome machine learning Rust.
+  - [beesmile](https://github.com/sablokrep/beesmile): Chemical structure machine learning.
+  - [beechem](https://github.com/sablokrep/beechem): QSAR machine learning. 
+
 - **Rust Crates Build at Poznan, Poland: 2025-2025** 
   - [eVaiUtilities](https://github.com/omicscode/eVaiutilities): Variant analysis from the eVai.
   - [egraph](https://github.com/rustcodepro/egraph): egraph for the eVai machine learning.
@@ -73,8 +83,6 @@
   - [seqmap](https://github.com/rustcodepro/seqmap): SeqMap for the genomic mapping.
   - [seqCluster](https://github.com/rustcodepro/seqcluster): Metagenomics SeqCluster
   - [graphSAGE](https://github.com/rustcodepro/graphsage): GraphSAGE in RUST.
-  - [beechem](https://github.com/rustcodepro/beechem): Elasticnet approach to chemical modelling.
-  - [klebnz](https://github.com/rustcodepro/klebnz): Kelp sponge machine learning.
   
  - **Rust Crates Build at Potsdam Germany:2024-2024** 
    - [panscape](https://github.com/omicscode/panscape): Pangenome long reads
