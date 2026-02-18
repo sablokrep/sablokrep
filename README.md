@@ -44,7 +44,8 @@
   - [statreg](https://github.com/sablokrep/statreg): Statistical Machine learning for StatNZ.
   - [biomeML](https://github.com/sablokrep/biomeML): Microbiome machine learning Rust.
   - [beesmile](https://github.com/sablokrep/beesmile): Chemical structure machine learning.
-  - [beechem](https://github.com/sablokrep/beechem): QSAR machine learning. 
+  - [beechem](https://github.com/sablokrep/beechem): QSAR machine learning.
+  - [amnz](https://github.com/sablokrep/amnz): Antimicrobial bee metagenmics machine learning.
 
 - **Rust Crates Build at Poznan, Poland: 2025-2025** 
   - [eVaiUtilities](https://github.com/omicscode/eVaiutilities): Variant analysis from the eVai.
