@@ -92,6 +92,5 @@
    - [hpcMapper](https://github.com/omicscode/hpcMapper): DevOPS system managment for the high performance computing.
    - [bacdive](https://github.com/omicscode/bacdive): Bacterial genome analysis from Bacdive.
    - [araseq](https://github.com/omicscode/araseq): Complete kit for the Arabidopsis genome information.
-   - [minifyseq](https://github.com/omicscode/minifySeq): Noise removal from the long reads inclduing the machine learning based
    - [proteogenomics](https://github.com/omicscode/proteogenomics): implementing the proteogenomics methods.
    - [geomapper](https://github.com/omicscode/geomapper): a complete kit for geospatial analysis for German geo.
