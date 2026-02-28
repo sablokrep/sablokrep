@@ -31,8 +31,8 @@
 
 **Notification:**
 
-- I dont vibe code and use language models. 
-- I am actively coding for multiple job offers hence some of them are under active development. See the last commit tag as the final build release for each of the source repository.
+- **I dont vibe code and use language models.**
+- **I am actively coding for multiple job offers hence some of them are under active development. See the last commit tag as the final build release for each of the source repository.**
 
 **Projects completed and currently working**:
 
